@@ -48,3 +48,8 @@
 ## app.py is working fine 
 
 ## config file : -> config = {"OPENAI_API_KEY":"","GROQ_API_KEY":""}
+
+
+##  Document Link (only for QED42 Org.)
+
+https://docs.google.com/document/d/1vyL0u_7tCTWM4ewC6eszpozkMmUulmyQZLPL3pSxGbA/edit?usp=sharing
