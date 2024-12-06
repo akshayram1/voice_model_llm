@@ -41,3 +41,10 @@
 - OpenAI TTS
 - Groq API
 - WebSocket communication# voice_model_llm
+
+
+## in the app.py streamlit file is there for gui and for web gui i have not created anything only main.py have backend code 
+
+## app.py is working fine 
+
+## config file : -> config = {"OPENAI_API_KEY":"","GROQ_API_KEY":""}
